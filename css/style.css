@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+.redBox{
+width:  400px;
+height: 400px;
+margin: 20px;
+background-color: red;
+
+}
+
+.purpleBox{
+background-color: purple;
+width:  200px;
+height: 200px;
+position: relative;
+top: 100px;
+left: 100px;
+}
+
+.yellowBox{
+background-color:yellow;
+width : 100px;
+height: 100px;
+}
+
+.blueBox{
+width:  400px;
+height: 400px;
+margin: 20px;
+background-color:blue;
+}
+
+.greenBox{
+background-color: green;
+width : 200px;
+height: 200px;
+position: relative;
+top: 100px;
+left: 100px
+}
+
+.blackBox{
+background-color:black;
+width:  100px;
+height: 100px;
+position: relative;
+bottom: 200px;
+}
